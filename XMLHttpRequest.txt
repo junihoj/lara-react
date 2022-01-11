@@ -1,0 +1,6 @@
+Access to XMLHttpRequest at 
+'http://localhost/api/edit-student/4' 
+from origin 'http://localhost:8080' 
+has been blocked by
+ CORS policy: No 'Access-Control-Allow-Origin'
+header is present on the requested resource.
